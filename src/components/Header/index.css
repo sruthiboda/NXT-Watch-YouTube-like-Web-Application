@@ -1,0 +1,30 @@
+.rightNav {
+  display: flex;
+  padding: 9px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+}
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  background-color: beige;
+  position: fixed;
+  width: 100vw;
+}
+.modeBtn {
+  background-color: transparent;
+  padding: 10px;
+
+  border: 0;
+}
+.mainNav {
+  height: 60px;
+  margin-bottom: 0px;
+  top: 0;
+  z-index: 2;
+  position: fixed;
+}
+.logoN {
+  height: 47px;
+}

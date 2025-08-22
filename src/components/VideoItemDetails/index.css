@@ -1,0 +1,68 @@
+.MainContainer {
+  display: flex;
+  width: 100%;
+
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.SavedrightContainer {
+  width: 90%;
+
+  border: 1px solid black;
+  padding: 12px;
+  padding-top: 29px;
+  margin-bottom: 0px;
+}
+.bottomDesc {
+  padding-left: 69px;
+}
+.reactPlayer12 {
+  margin-top: 19px;
+  padding: 15px;
+}
+
+.channel_img {
+  height: 55px;
+  width: 55px;
+  align-self: center;
+}
+.eachTextSide {
+  padding-left: 16px;
+}
+.hrLine {
+  width: 95%;
+  margin-left: 27px;
+}
+.textDiv {
+  display: flex;
+  align-items: flex-start;
+
+  padding: 0;
+}
+.timeDate {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 11px;
+}
+
+.dateEl {
+  display: flex;
+  margin-left: 0px;
+}
+.btn12 {
+  margin: 9px;
+  background-color: transparent;
+  border: 0px;
+  width: 65px;
+}
+.icons {
+  padding-right: 29px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: 0px;
+}
