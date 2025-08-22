@@ -1,0 +1,28 @@
+.mainBg2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.rightContainer {
+  width: 82%;
+
+  background-color: white;
+  overflow-y: auto;
+  margin-top: 41px;
+  padding: 0px;
+}
+.liItem1 {
+  text-decoration: none;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: 0px;
+}
+.thumbnail_img {
+  height: 250px;
+  width: 490px;
+}

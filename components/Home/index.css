@@ -1,0 +1,90 @@
+.logoNxt {
+  height: 40px;
+}
+
+.litem {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  list-style-type: none;
+  text-decoration: none;
+  margin-bottom: 29px;
+  width: 350px;
+  margin-right: 39px;
+  margin-left: 0px;
+}
+
+.noVids {
+  height: 400px;
+  width: 430px;
+}
+.no-style-link {
+  text-decoration: none;
+  color: inherit;
+}
+.vidTextEl {
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  margin-top: 60px;
+}
+.profile {
+  height: 30px;
+  margin-left: 19px;
+  margin-right: 19px;
+}
+.timeElement {
+  display: flex;
+}
+.channelImg {
+  height: 50px;
+  width: 50px;
+}
+.vidElement {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  margin-left: 0px;
+}
+.headTitle {
+  font-size: 12px;
+}
+.thumbnail {
+  height: 140px;
+  width: 290px;
+}
+.eachVideo {
+  width: 290px;
+  height: 300px;
+  list-style-type: none;
+}
+
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.bg-vid {
+  display: flex;
+
+  min-height: 100vh;
+}
+* {
+  pointer-events: auto !important;
+}
+.loader-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+}
