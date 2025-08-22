@@ -177,29 +177,4 @@ All components you implement should go in the src/components directory.
 Don't change the component folder names as those are the files being imported into the tests.
 Do not remove the pre-filled code
 Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-82.9%
- 
-CSS
-11.9%
- 
-HTML
-5.2%
-Footer
+
